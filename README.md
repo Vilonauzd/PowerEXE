@@ -3,7 +3,7 @@
 ## PowerShell to Executable Compiler
 
 PowerEXE is a Windows PowerShell-based utility designed to compile PowerShell scripts (`.ps1`) into standalone executable files (`.exe`). It utilizes a WPF-based graphical interface to manage compilation parameters, including icon embedding, metadata configuration, and code signing.
-
+<img width="1800" height="1798" src="https://github.com/Vilonauzd/PowerEXE/blob/58721a1dda89c885be9f4dedc39a0cafef0ac9fd/powerexe_image.png" />
 ---
 
 ## Table of Contents

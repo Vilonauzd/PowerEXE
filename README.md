@@ -6,6 +6,8 @@ PowerEXE is a Windows PowerShell-based utility designed to compile PowerShell sc
 
 ---
 <img width="680" height="900" src="https://github.com/Vilonauzd/PowerEXE/blob/58721a1dda89c885be9f4dedc39a0cafef0ac9fd/powerexe_image.png" />
+<div align="center">
+---
 ## Table of Contents
 
 1. [Overview](#overview)
